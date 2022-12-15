@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "abdul",
+  "author": "sumit",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
